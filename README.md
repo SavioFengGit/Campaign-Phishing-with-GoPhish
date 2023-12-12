@@ -24,7 +24,7 @@ Remember to save all the settings at every step.<br>
 <img src="test_box.png" width=70% height="auto"><br><br>
 5) **Set a New landing page, specify the page on import site, it's the page where they will be redirect when someone click your link, in my case localhost:8080, and active the capture of submitted data and passwords**<br>
 <img src="new_landing_page.png" width=40% height="auto"> <img src="import_site.png" width=50% height="auto"><br><br>
-6) **Set a New template, click on Import Email and paste the code of the email template (download a email template or create a custom)**<br>
+6) **Set a New template, click on Import Email and paste the code of the email template (download an email template or create a custom one)**<br>
 <img src="fake_email.png" width=50% height="auto"><br><br>
 7) **Set a New Group with importing a file.csv**<br>
 <img src="new_group.png" width=50% height="auto"><br><br>
@@ -33,7 +33,7 @@ Remember to save all the settings at every step.<br>
 8) **Set a New Campaign and Launch it**<br>
 <img src="new_campaign.png" width=50% height="auto"><br><br>
 
-**This is an example of email that they will receive. If they will click on Reset Password, they will be redirect into localhost:8080 where there is my fake reset password page.** <br>
+**This screenshot it's an example of email that they will receive. If they will click on Reset Password, they will be redirect into localhost:8080 where there is my fake reset password page.** <br>
 <img src="phishing_email.png" width=70% height="auto"><br>
 
 
