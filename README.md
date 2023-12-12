@@ -15,11 +15,28 @@ GoPhish makes you launch a Campaign in 3 steps:<br>
 
 ## Campaign Phishing with GoPhish <br>
 Remember to save all the settings at every step.<br>
-1) Start the gophish server<br>
-2) Go to the URL and log in with the credentials<br>
-3) Set a New profile like the screenshot<br>
-4) Send a test email and check in your mailbox, u should to receive the test email<br>
-5) Set a New landing page (specify the page where they will be redirect when click your link, in my case localhost:8080), active the capture of sumbitted data and passwords<br>
-6) Set a New template, click on Import Email and paste the code of the email template (download a email template or create a custom)<br>
-7) Set a New Group with importing a file.csv<br>
-8) Set a New Campaign and Launch it<br>
+1) **Start the gophish server**<br>
+2) **Go to the URL and log in with the credentials**<br><br>
+<img src="login_panel.png" width=70% height="auto"><br>
+3) **Set a New profile** <br>
+<img src="new_profile.png" width=50% height="auto"><br><br>
+4) **Send a test email and check in your mailbox, you should receive the test email**<br>
+<img src="test_box.png" width=70% height="auto"><br><br>
+5) **Set a New landing page specify the page on import site where they will be redirect when someone click your link, in my case localhost:8080, and active the capture of submitted data and passwords**<br>
+<img src="new_landing_page.png" width=40% height="auto"> <img src="import_site.png" width=50% height="auto"><br><br>
+6) **Set a New template, click on Import Email and paste the code of the email template (download a email template or create a custom)**<br>
+<img src="fake_email.png" width=50% height="auto"><br><br>
+7) **Set a New Group with importing a file.csv**<br>
+<img src="new_group.png" width=50% height="auto"><br><br>
+**Example file CSV** <br>
+<img src="file_csv.png" width=30% height="auto"><br><br>
+8) **Set a New Campaign and Launch it**<br>
+<img src="new_campaign.png" width=50% height="auto"><br><br>
+
+**This is an example of email that they will receive. If they will click on Reset Password, they will be redirect into localhost:8080 where there is my fake reset password page.** <br>
+<img src="phishing_email.png" width=70% height="auto"><br>
+
+
+
+#Author
+<b>Xiao Li Savio Feng</b>
