@@ -24,9 +24,9 @@ Remember to save all the settings at every step.<br>
 <img src="test_box.png" width=70% height="auto"><br><br>
 5) **Set a New landing page, specify the page on import site, it's the page where they will be redirect when someone click your link, in my case localhost:8080, and active the capture of submitted data and passwords**<br>
 <img src="new_landing_page.png" width=40% height="auto"> <img src="import_site.png" width=50% height="auto"><br><br>
-6) **Set a New template, click on Import Email and paste the code of the email template (download an email template or create a custom one)**<br>
+6) **Set a New template, click on Import Email and paste the code of the email template (download an email template or create a custom one), this is a very important step, because you need to use hard social engineering for bait the target, don't worry to spend a lot of time to custom the email**<br>
 <img src="fake_email.png" width=50% height="auto"><br><br>
-7) **Set a New Group with importing a file.csv**<br>
+7) **Set a New Group with importing a file.csv, here it's where you set the targets, an example can be the employees of the company**<br>
 <img src="new_group.png" width=50% height="auto"><br><br>
 **Example file CSV** <br>
 <img src="file_csv.png" width=30% height="auto"><br><br>
