@@ -1,5 +1,5 @@
 # Campaign-Phishing-with-GoPhish
-This is an example of how to assess employee readiness for social engineering with the tool Gophish<br>
+This is an example of how to assess employee readiness for social engineering with the tool Gophish.<br>
 I show only the important steps required to perform a campaign phishing. <br>
 # Introduction of the tool
 ## GoPhish
