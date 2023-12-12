@@ -1,5 +1,6 @@
 # Campaign-Phishing-with-GoPhish
-I show the important steps required to perform a campaign phishing. <br>
+This is an example of how to assess employee readiness for social engineering with the tool Gophish<br>
+I show only the important steps required to perform a campaign phishing. <br>
 # Introduction of the tool
 ## GoPhish
 GoPhish is an open-source tool that helps you test the vulnerability of your organization to phishing attacks.<br> 
