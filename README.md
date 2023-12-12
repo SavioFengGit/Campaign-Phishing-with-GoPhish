@@ -8,8 +8,8 @@ GoPhish allows you to create realistic phishing campaigns, send them to your emp
 GoPhish is designed for businesses and penetration testers who want to improve their security awareness and prevent data breaches.<br>
 <br>
 GoPhish makes you launch a Campaign in 3 steps:<br>
-- Set Templates & Targets
-- Launch the Campaign
+- Set Profiles, Landing pages, Templates & Targets
+- Launch the Campaign Phishing
 - Track Results
 <br>
 
