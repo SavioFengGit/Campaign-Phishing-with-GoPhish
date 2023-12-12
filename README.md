@@ -22,7 +22,7 @@ Remember to save all the settings at every step.<br>
 <img src="new_profile.png" width=50% height="auto"><br><br>
 4) **Send a test email and check in your mailbox, you should receive the test email**<br>
 <img src="test_box.png" width=70% height="auto"><br><br>
-5) **Set a New landing page, specify the page on import site where they will be redirect when someone click your link, in my case localhost:8080, and active the capture of submitted data and passwords**<br>
+5) **Set a New landing page, specify the page on import site, it's the page where they will be redirect when someone click your link, in my case localhost:8080, and active the capture of submitted data and passwords**<br>
 <img src="new_landing_page.png" width=40% height="auto"> <img src="import_site.png" width=50% height="auto"><br><br>
 6) **Set a New template, click on Import Email and paste the code of the email template (download a email template or create a custom)**<br>
 <img src="fake_email.png" width=50% height="auto"><br><br>
