@@ -34,7 +34,7 @@ Remember to save all the settings at every step.<br>
 8) **Set a New Campaign and Launch it**.<br>
 <img src="new_campaign.png" width=50% height="auto"><br><br>
 
-**This screenshot it's an example of the email that they will receive. If they will click on Reset Password, they will be redirect into localhost:8080 where there is my fake reset password page.** <br>
+**This screenshot is an example of the email that they will receive. If they will click on Reset Password, they will be redirect into localhost:8080 where there is my fake reset password page.** <br>
 <img src="phishing_email.png" width=70% height="auto"><br>
 
 
